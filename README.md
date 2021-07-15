@@ -17,4 +17,5 @@
 ## [LMS] Jupyter Notebooks
 |  #  | Title  | TAGS |
 | :-: | :---:  | :--: | 
-|  1  |[Rock Scissor Paper](02_rock_scissor_paper.ipynb) | Image classification | 
+|  1  |[Rock Scissor Paper](Exploration/02_rock_scissor_paper.ipynb) | Image classification | 
+|  2  |[Iris](Exploration/EXP02_IRIS.ipynb) | Classification metrics, confusion matrix, MNIST, Random Forest, SVM, SGDClassifier, Logistic Regression  | 
