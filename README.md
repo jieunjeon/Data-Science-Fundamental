@@ -19,3 +19,5 @@
 | :-: | :---:  | :--: | 
 |  1  |[Rock Scissor Paper](Exploration/02_rock_scissor_paper.ipynb) | Image classification | 
 |  2  |[Iris](Exploration/EXP02_IRIS.ipynb) | Classification metrics, confusion matrix, MNIST, Random Forest, SVM, SGDClassifier, Logistic Regression  | 
+|  3  |[Classification of Digits, Wine, and Breast Cancer Dataset](Exploration/%5BE_02%5DClassification_of_Digits%26Wine%26Breast_Cancer.ipynb) | Classification metrics, confusion matrix, MNIST, Random Forest, SVM, SGDClassifier, Logistic Regression  | 
+|  4  |[Face Detection and Landmark - Crown on Head ](Exploration/%5BE_02%5DClassification_of_Digits%26Wine%26Breast_Cancer.ipynb) | Image Detection, LandMark, Face Detection, openCV  | 
