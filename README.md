@@ -12,7 +12,8 @@
 |  4  |[Face Detection and Landmark - Crown on Head ](Exploration/%5BE_02%5DClassification_of_Digits%26Wine%26Breast_Cancer.ipynb) | Image Detection, LandMark, Face Detection, openCV  | 
 |  5  |[Face Detection and Landmark - Whiskers Sticker Camera App ](Exploration/%5BE_03%5D_Face_Detection_Whisker.ipynb) | Image, LandMark, Face Detection, getRotationMatrix2D, perspectiveTransform  | 
 |  6  |[Text Generator with RNN and LSTM - The Lyricist for Lovers ](Exploration/%5BE_04%5D_Create_Lyricist_with_RNN_LSTM.ipynb) | Text Generator, RNN, LSTM, Bidirectional Layer, ModelCheckpoints, Lyricist  | 
-   
+|  7  |[Who do I look like? - Face Embedding App with Korean Celebrities ](Exploration/[E_05]_Who_do_I_look_like_Face_Embedding.ipynb) | Face Embedding, FaceNet, L2 norm, Triplet Loss, Embedding Space, Selfie, Vision  | 
+|  8  |[Kaggle - House Price Prediction ](Exploration/[E_06]_House_Price_Prediction_KaKR_kaggle.ipynb) | Kaggle, XGBoost, GeoJSON, Log Scaling, Label Encoding, RMSE  | 
    
 <h1 align="center">
   🔥 Fundamental 🔥
