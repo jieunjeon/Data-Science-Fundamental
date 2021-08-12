@@ -13,3 +13,4 @@
 |  6  |[Text Generator with RNN and LSTM - The Lyricist for Lovers ](%5BE_04%5D_Create_Lyricist_with_RNN_LSTM.ipynb) | Text Generator, RNN, LSTM, Bidirectional Layer, ModelCheckpoints, Lyricist  | 
 |  7  |[Who do I look like? - Face Embedding App with Korean Celebrities ]([E_05]_Who_do_I_look_like_Face_Embedding.ipynb) | Face Embedding, FaceNet, L2 norm, Triplet Loss, Embedding Space, Selfie, Vision  | 
 |  8  |[Kaggle - House Price Prediction ]([E_06]_House_Price_Prediction_KaKR_kaggle.ipynb) | Kaggle, XGBoost, GeoJSON, Log Scaling, Label Encoding, RMSE  | 
+|  9  |[Sentiment Analysis - Naver Movie Review Comments ](Sentiment_Analysis-Movie_Review.ipynb) | NLP, Sentiment Analysis, Word2Vec, CNN, LSTM, GlobalMaxPooling | 
