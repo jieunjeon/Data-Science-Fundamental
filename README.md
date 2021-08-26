@@ -15,6 +15,9 @@
 |  7  |[Who do I look like? - Face Embedding App with Korean Celebrities ](Exploration/[E_05]_Who_do_I_look_like_Face_Embedding.ipynb) | Face Embedding, FaceNet, L2 norm, Triplet Loss, Embedding Space, Selfie, Vision  | 
 |  8  |[Kaggle - House Price Prediction ](Exploration/[E_06]_House_Price_Prediction_KaKR_kaggle.ipynb) | Kaggle, XGBoost, GeoJSON, Log Scaling, Label Encoding, RMSE  | 
 |  9  |[Sentiment Analysis - Naver Movie Review Comments ](Exploration/Sentiment_Analysis-Movie_Review.ipynb) | NLP, Sentiment Analysis, Word2Vec, CNN, LSTM, GlobalMaxPooling | 
+|  10  |[Text Summarization - Summarize News Articles ](Exploration/[E_10]_Text_Summarization.ipynb) | NLP, Abstract/Extract Summarization, Seq2seq | 
+|  11  |[Diagnosis Pneumonia - Deep CNN ](Exploration/[E_11]_Detect_Diagnosis_Pneumonia.ipynb) | Deep CNN, Medical Images, Data Augmentation | 
+
    
 <h1 align="center">
   🔥 Fundamental 🔥
