@@ -23,7 +23,7 @@
 ## 🤗 RECOMMENDATION
 |  #  | Title  | TAGS |
 | :-: | :---:  | :--: | 
-|  1  |[Session Based Recommendatino w/ RNN - Predict The Next Movie To Watch ]([E_12]_prediction-next_movie_to_watch.ipynb) | Recommendation, RNN, Session, Movielens  | 
+|  1  |[Session Based Recommendatino w/ RNN - Predict The Next Movie To Watch ]([Exploration/[E_12]_prediction-next_movie_to_watch.ipynb) | Recommendation, RNN, Session, Movielens  | 
 
 ## 🧠 PREDICTION
 |  #  | Title  | TAGS |
