@@ -1,5 +1,6 @@
-# 🔥 Exploring Data Science 🔥
-
+<h1 align="center">
+  🛫 My journey in Exploring Data Science 🛬
+</h1>
 ## 👀 VISION
 |  #  | Title  | TAGS |
 | :-: | :---:  | :--: | 
