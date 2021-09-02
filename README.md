@@ -12,7 +12,7 @@
 |  5  |[Face Detection and Landmark - Whiskers Sticker Camera App ](%5BE_03%5D_Face_Detection_Whisker.ipynb) | Image, LandMark, Face Detection, getRotationMatrix2D, perspectiveTransform  | 
 |  6  |[Who do I look like? - Face Embedding App with Korean Celebrities ]([E_05]_Who_do_I_look_like_Face_Embedding.ipynb) | Face Embedding, FaceNet, L2 norm, Triplet Loss, Embedding Space, Selfie, Vision  | 
 |  7  |[Diagnosis Pneumonia - Deep CNN ]([E_11]_Detect_Diagnosis_Pneumonia.ipynb) | Deep CNN, Medical Images, Data Augmentation | 
-
+|  8  |[GAN with CIFAR-10 - Create New Fashion with image generator ](Exploration/[E_13]_cifar10_with_gan_generator_constructor.ipynb) | GAN, CIFAR-10 | 
 
 
 ## 😁 NLP
