@@ -31,8 +31,8 @@
 ## 🧠 PREDICTION
 |  #  | Title  | TAGS |
 | :-: | :---:  | :--: | 
-|  1  |[Kaggle - House Price Prediction ]([E_06]_House_Price_Prediction_KaKR_kaggle.ipynb) | Kaggle, XGBoost, GeoJSON, Log Scaling, Label Encoding, RMSE  | 
-   
+|  1  |[Kaggle - House Price Prediction ](Exploration/[E_06]_House_Price_Prediction_KaKR_kaggle.ipynb) | Kaggle, XGBoost, GeoJSON, Log Scaling, Label Encoding, RMSE  | 
+|  2  |[ARIMA - Stock Prediction with ARIMA model ](Exploration/[E_14]_stock_prediction_with_ARIMA_model) | ARIMA, Stock Prediction  | 
 <h1 align="center">
   🔥 Fundamental 🔥
 </h1>
