@@ -18,9 +18,10 @@
 ## 😁 NLP
 |  #  | Title  | TAGS |
 | :-: | :---:  | :--: | 
-|  1  |[Text Generator with RNN and LSTM - The Lyricist for Lovers ](%5BE_04%5D_Create_Lyricist_with_RNN_LSTM.ipynb) | Text Generator, RNN, LSTM, Bidirectional Layer, ModelCheckpoints, Lyricist  | 
-|  2  |[Sentiment Analysis - Naver Movie Review Comments ](Sentiment_Analysis-Movie_Review.ipynb) | NLP, Sentiment Analysis, Word2Vec, CNN, LSTM, GlobalMaxPooling | 
-|  3  |[Text Summarization - Summarize News Articles ]([E_10]_Text_Summarization.ipynb) | NLP, Abstract/Extract Summarization, Seq2seq | 
+|  1  |[Text Generator with RNN and LSTM - The Lyricist for Lovers ](Exploration/%5BE_04%5D_Create_Lyricist_with_RNN_LSTM.ipynb) | Text Generator, RNN, LSTM, Bidirectional Layer, ModelCheckpoints, Lyricist  | 
+|  2  |[Sentiment Analysis - Naver Movie Review Comments ](Exploration/Sentiment_Analysis-Movie_Review.ipynb) | NLP, Sentiment Analysis, Word2Vec, CNN, LSTM, GlobalMaxPooling | 
+|  3  |[Text Summarization - Summarize News Articles ](Exploration/[E_10]_Text_Summarization.ipynb) | NLP, Abstract/Extract Summarization, Seq2seq | 
+|  4  |[Transformer - Chatbot ](Exploration/[E_15]_Transformer_Chatbot.ipynb) | NLP, transformer, chatbot, Korean | 
 
 
 ## 🤗 RECOMMENDATION
