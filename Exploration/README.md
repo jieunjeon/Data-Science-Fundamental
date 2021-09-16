@@ -20,7 +20,7 @@
 |  2  |[Sentiment Analysis - Naver Movie Review Comments ](Sentiment_Analysis-Movie_Review.ipynb) | NLP, Sentiment Analysis, Word2Vec, CNN, LSTM, GlobalMaxPooling | 
 |  3  |[Text Summarization - Summarize News Articles ]([E_10]_Text_Summarization.ipynb) | NLP, Abstract/Extract Summarization, Seq2seq | 
 |  4  |[Transformer - Chatbot ]([E_15]_Transformer_Chatbot.ipynb) | NLP, transformer, chatbot, Korean | 
-
+|  5  |[BERT model ]([E_17]_BERT_KorQuAD_quiz_AI.ipynb) | BERT, pre-trained model, KorQuAD, Quiz QI | 
 
 ## 🤗 RECOMMENDATION
 |  #  | Title  | TAGS |
