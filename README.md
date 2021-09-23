@@ -14,7 +14,8 @@
 |  7  |[Diagnosis Pneumonia - Deep CNN ](Exploration/[E_11]_Detect_Diagnosis_Pneumonia.ipynb) | Deep CNN, Medical Images, Data Augmentation | 
 |  8  |[GAN with CIFAR-10 - Create New Fashion with image generator ](Exploration/[E_13]_cifar10_with_gan_generator_constructor.ipynb) | GAN, CIFAR-10 | 
 |  9  |[SRGAN Super Resolution ](Exploration/[E_16]_SRGAN.ipynb) | SRGAN, GIF| 
-
+|  10  |[Image Text Detection - Retail Shop Sign Detector w/ Google-OCR-API, Keras-OCR, and Tesseract ](Exploration/[E_18]_Retail_shop_Sign_Detector_with_Google_OCR_API_Keras_OCR_Tesseract.ipynb) | OCR, Text Detection| 
+|  11  |[Image Segmentation - Segmentation_map_streets ](Exploration/[E_19]_Segmentation_map_streets.ipynb) | Segmentation, cGAN, Pix2Pix| 
 
 ## 😁 NLP
 |  #  | Title  | TAGS |
